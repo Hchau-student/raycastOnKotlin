@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXDelta="-100%"
+    android:toXDelta="0%"
+    android:fromYDelta="0%"
+    android:toYDelta="0%"
+    android:duration="2500"
+    />
+    <!-- from right to left slide animation -->
+    <!--translate
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fromXDelta="100%"
+        android:toXDelta="0%"
+        android:fromYDelta="0%"
+        android:toYDelta="0%"
+        android:duration="2500"
+        /-->
+
+    <!-- from up to down slide animation -->
+    <!--translate
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fromXDelta="0%"
+        android:toXDelta="0%"
+        android:fromYDelta="-100%"
+        android:toYDelta="0%"
+        android:duration="2500"
+        /-->
+
+    <!-- from down to up slide animation -->
+    <!--translate
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fromXDelta="0%"
+        android:toXDelta="0%"
+        android:fromYDelta="100%"
+        android:toYDelta="0%"
+        android:duration="2500"
+        /-->
