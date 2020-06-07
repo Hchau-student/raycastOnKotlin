@@ -1,5 +1,5 @@
 # raycastOnKotlin
-A simple raycast on Android, Wolf-3D style. This project includes rendering walls with textures using raycasting.
+A simple raycast on Android, Wolf-3D style. This project includes rendering walls with textures using raycasting. If it's barely working on your phone, please open preferences and make lower resolution.
 
 Explore room
 
@@ -13,3 +13,6 @@ Explore room
 
 or watch BeeGees clip if you want just take it easy
 ![](https://github.com/Hchau-student/raycastOnKotlin/blob/master/screenshots/clip.jpg)
+
+Whole commit-history of work:
+https://github.com/Hchau-student/exercises - AndroidForFun
