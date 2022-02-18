@@ -17,5 +17,6 @@ or watch BeeGees clip and take it easy
 ![](https://github.com/Hchau-student/raycastOnKotlin/blob/master/screenshots/clip.jpg)
 
 Whole history of work:
-https://github.com/Hchau-student/exercises - AndroidForFun
+https://github.com/Hchau-student/exercises/AndroidForFun
+
 Have fun!
